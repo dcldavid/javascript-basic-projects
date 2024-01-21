@@ -1,0 +1,287 @@
+[33mcommit ff3cdf1fb023f2aba73fed37b56721ec6114f11b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: john smilga <johnsmilga@gmail.com>
+Date:   Fri May 19 13:58:53 2023 -0400
+
+    switched 25 slider to local images
+
+[33mcommit 11e94145d7802c1ee20071cd5172845ed49722fd[m
+Author: john smilga <johnsmilga@gmail.com>
+Date:   Fri May 19 13:51:23 2023 -0400
+
+    switched filters to local images
+
+[33mcommit 95cdad5a8fd6e495e20dae6e4a0e2c93db5c2cbc[m
+Author: john smilga <johnsmilga@gmail.com>
+Date:   Fri May 19 13:26:33 2023 -0400
+
+    switch to local images
+
+[33mcommit 6f4c947a8493172b2afeb915a432c3c5ab61ad71[m
+Author: john smilga <johnsmilga@gmail.com>
+Date:   Sat Apr 29 21:30:20 2023 -0400
+
+    fixed images
+
+[33mcommit 6c7e27fd3d1d68007bce0cf3c105d14750d780dd[m
+Author: john smilga <johnsmilga@gmail.com>
+Date:   Sun Jan 29 10:27:07 2023 -0500
+
+    update to imgbox
+
+[33mcommit 652657668921c4d2fcc57d11b1f7400ed0ad2f31[m
+Author: john smilga <johnsmilga@gmail.com>
+Date:   Thu Mar 10 08:58:50 2022 -0800
+
+    29 comfy fixed
+
+[33mcommit 85774f7075c5d739fa376af6305ed14f69ed977f[m
+Author: john smilga <johnsmilga@gmail.com>
+Date:   Wed Mar 9 09:10:36 2022 -0800
+
+    29-comfy-store added
+
+[33mcommit fbbd7a2edd95e76e4685aaa509abb31d41b15318[m
+Author: john smilga <johnsmilga@gmail.com>
+Date:   Sun Mar 6 13:03:48 2022 -0800
+
+    fixed readme
+
+[33mcommit 48b709d44894177442f3fc50ff421c9435b2d65b[m
+Author: john smilga <johnsmilga@gmail.com>
+Date:   Sun Mar 6 11:27:29 2022 -0800
+
+    28-wiki-complete
+
+[33mcommit f16970a07dc2d2f94419cdfab9e060a4f5ae8167[m
+Author: john smilga <johnsmilga@gmail.com>
+Date:   Sat Mar 5 12:51:20 2022 -0800
+
+    22 - products page project complete
+
+[33mcommit 2c887a387aa5667c6db3c53b314537c69a9464e0[m
+Author: john smilga <johnsmilga@gmail.com>
+Date:   Thu Mar 3 11:26:47 2022 -0800
+
+    21 - dad jokes added
+
+[33mcommit 539f395021cd4f08401029a60823c1cc6af612ec[m
+Author: john smilga <johnsmilga@gmail.com>
+Date:   Wed Feb 23 20:12:56 2022 -0800
+
+    still fixing gallery css
+
+[33mcommit f5b8c0d05391d241a7fdad3f2ed9ef373c902c71[m
+Author: john smilga <johnsmilga@gmail.com>
+Date:   Wed Feb 23 20:09:48 2022 -0800
+
+    gallery css fixed
+
+[33mcommit 500b1babe1a8448f59b819ab3180aa95c59d0927[m
+Author: john smilga <johnsmilga@gmail.com>
+Date:   Wed Feb 23 13:44:06 2022 -0800
+
+    up to 29 (github users) project complete
+
+[33mcommit cf1a131310f6ec46ace369e84cb13280c92c765a[m
+Author: john smilga <johnsmilga@gmail.com>
+Date:   Sat Nov 13 12:47:32 2021 -0800
+
+    fixed readme
+
+[33mcommit 2b1c80cd5d699fcd2efddb2e8dbfb09d95cfea70[m
+Author: John <johnsmilga@gmail.com>
+Date:   Tue Jun 1 06:53:48 2021 -0700
+
+    removed array syntax from classList in 16-ES6 Slider
+
+[33mcommit 469042ea8e509b971deb123d946a62aaad1369ee[m
+Author: John <johnsmilga@gmail.com>
+Date:   Sat Apr 24 22:35:33 2021 -0700
+
+    fixed numbering
+
+[33mcommit 133c6420650c1954eb6a26a75f8f9a0ff2d8d006[m
+Author: john-smilga <johnsmilga@gmail.com>
+Date:   Wed Jan 27 10:13:07 2021 -0800
+
+    show sidebar by default in the setup folder
+
+[33mcommit f24117e0b52d08bca5c05bda942e8e8b4ff5eab9[m
+Author: john-smilga <johnsmilga@gmail.com>
+Date:   Wed Oct 21 14:50:55 2020 -0700
+
+    18-pagination bcg changed to grey
+
+[33mcommit ec04b40e329e8fedc2329c36e81790a2a31e1cf2[m
+Author: john-smilga <johnsmilga@gmail.com>
+Date:   Wed Oct 21 14:29:52 2020 -0700
+
+    18-pagination added
+
+[33mcommit 19c2232d7a74f94bd271b8158a3f3b46ca7b3115[m
+Author: john-smilga <johnsmilga@gmail.com>
+Date:   Sat Oct 17 19:02:07 2020 -0700
+
+    slider styles removed from setup
+
+[33mcommit f2eee3dacf73967a2d1f928961e3acbddcb68221[m
+Author: john-smilga <johnsmilga@gmail.com>
+Date:   Fri Oct 9 08:21:51 2020 -0700
+
+    14-todo name changed to grocery-bud to avoid confusion
+
+[33mcommit 9af4b8033d24524b4a8dcb0056b1cb6e3f388a46[m
+Author: John <johnsmilga@gmail.com>
+Date:   Tue Sep 22 07:13:57 2020 -0700
+
+    show links by default
+
+[33mcommit f1142fa3a623327241450d3e7a65820e0eb7a48b[m
+Author: John <johnsmilga@gmail.com>
+Date:   Sun Sep 6 09:59:46 2020 -0700
+
+    some changes added to the readme
+
+[33mcommit 1f1840aeda7a74fef71d48e93b087cfd685c0e51[m
+Author: John <johnsmilga@gmail.com>
+Date:   Sun Aug 23 11:18:51 2020 -0700
+
+    formatting
+
+[33mcommit 3e00e1bfdf7cbf409b2a1f9c8a644732ede8bf49[m
+Author: John <johnsmilga@gmail.com>
+Date:   Sat Aug 8 12:23:31 2020 -0700
+
+    setup added to setup index.html 17
+
+[33mcommit b4bc0d29355e36e7369de687cc3040bd271a6fd0[m
+Author: John <johnsmilga@gmail.com>
+Date:   Sat Aug 8 10:17:26 2020 -0700
+
+    changes while recording
+
+[33mcommit 24fac1eb78a6357a7964f3b19b652c5bfa3bf0da[m
+Author: John <johnsmilga@gmail.com>
+Date:   Sat Aug 8 08:53:43 2020 -0700
+
+    changed headings in setup 17
+
+[33mcommit 81ac3216e881b9edcd9f16f303eb053d6b7dde1e[m
+Author: John <johnsmilga@gmail.com>
+Date:   Sat Aug 8 08:51:00 2020 -0700
+
+    setup html deleted in 17
+
+[33mcommit 59bd307971945e6ae128904006450a16bbb3c6e0[m
+Author: John <johnsmilga@gmail.com>
+Date:   Sat Aug 8 08:09:33 2020 -0700
+
+    added the same css in setup 17
+
+[33mcommit 78178f9c8efe636ad518b0d9e8c306d408a66a28[m
+Author: John <johnsmilga@gmail.com>
+Date:   Thu Aug 6 20:20:13 2020 -0700
+
+    font bigger on extra wide screen
+
+[33mcommit 5d8c570d5eadb8555281e80372ee951cf5cf27be[m
+Author: John <johnsmilga@gmail.com>
+Date:   Thu Aug 6 20:19:20 2020 -0700
+
+    one more font change for 17
+
+[33mcommit 09d3076508ab63b817de05bed1bb2ec2bf2bfae0[m
+Author: John <johnsmilga@gmail.com>
+Date:   Thu Aug 6 16:34:41 2020 -0700
+
+    make fonts bigger as well
+
+[33mcommit 808d224de10b5d53a4ee41b18d3b186238593a75[m
+Author: John <johnsmilga@gmail.com>
+Date:   Thu Aug 6 16:29:10 2020 -0700
+
+    one more background change in 17
+
+[33mcommit 369b851d68ae74104e588e3d1cbde70b98d6cc02[m
+Author: John <johnsmilga@gmail.com>
+Date:   Thu Aug 6 16:23:12 2020 -0700
+
+    more testing with background image
+
+[33mcommit 7cf88aa89fcc8595190a93edfa52a90c9fd674f1[m
+Author: John <johnsmilga@gmail.com>
+Date:   Thu Aug 6 16:14:46 2020 -0700
+
+    testing new setup for 17
+
+[33mcommit d81617ee8728ea1bf2f4ff6e0dd889845748c0d3[m
+Author: John <johnsmilga@gmail.com>
+Date:   Wed Aug 5 14:00:26 2020 -0700
+
+    default show removed from sidebar project 17
+
+[33mcommit 8beb078fbc3ad6cd2353930e044e49b66f8e1f61[m
+Author: John <johnsmilga@gmail.com>
+Date:   Wed Aug 5 13:48:10 2020 -0700
+
+    renamed project 17
+
+[33mcommit dacdd805989e5450811cba9c5f55a6759f39ed89[m
+Author: John <johnsmilga@gmail.com>
+Date:   Wed Aug 5 13:39:43 2020 -0700
+
+    17-stripe-hero-submenu complete
+
+[33mcommit e9eaddca44597592230291fc5fe25bf7fa29e010[m
+Author: John <johnsmilga@gmail.com>
+Date:   Sun Aug 2 16:04:28 2020 -0700
+
+    html url added for project 16
+
+[33mcommit cb8c23f50944f24525ca3bb028db7fc7431d02e6[m
+Author: John <johnsmilga@gmail.com>
+Date:   Sun Aug 2 10:15:29 2020 -0700
+
+    smaller margin for project 16
+
+[33mcommit 99d06edf97a732dfd8b7cc81c4f7cc9a88674b76[m
+Author: John <johnsmilga@gmail.com>
+Date:   Sun Aug 2 09:50:10 2020 -0700
+
+    all font-awesome replaced with cdn-links
+
+[33mcommit d79ed5006118a60d00b2aad77e7db65855f4b8d6[m
+Author: John <johnsmilga@gmail.com>
+Date:   Wed Jul 29 07:45:07 2020 -0700
+
+    16 javascript video link added
+
+[33mcommit 9c40ac0de9673d6018d7d44014f21f83f7ba466e[m
+Author: John <johnsmilga@gmail.com>
+Date:   Wed Jul 29 07:39:21 2020 -0700
+
+    fallback font-awesome added
+
+[33mcommit 65fa85455fd3149d337d1304ec9f184b08f64b5d[m
+Author: John <johnsmilga@gmail.com>
+Date:   Wed Jul 29 07:38:17 2020 -0700
+
+    project 5 and 16 switched to local files
+
+[33mcommit dbdacf226827d1a744a82bdc27331bf814efea51[m
+Author: John <johnsmilga@gmail.com>
+Date:   Wed Jul 29 07:35:31 2020 -0700
+
+    project number 4 switched back to local styles
+
+[33mcommit e8d4afd5a9793f9b7fff4c35c038a115b1ee3537[m
+Author: John <johnsmilga@gmail.com>
+Date:   Wed Jul 29 07:34:33 2020 -0700
+
+    third project switched to local styles
+
+[33mcommit 793abf3f03d3f9f70ee8c1aebf20cbc60fe5167b[m
+Author: John <johnsmilga@gmail.com>
+Date:   Wed Jul 29 07:33:34 2020 -0700
+
+    second p
